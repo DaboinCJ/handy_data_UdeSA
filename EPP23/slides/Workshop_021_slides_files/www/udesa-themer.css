@@ -1,0 +1,32 @@
+.inverse, .hljs-github {
+  background-image: url(images/udesa_logo_white_background.jpg);
+  background-position: 100% 0%;
+  background-size: 5%;
+}
+
+.remark-inline-code {
+    font-size: var(--code-inline-font-size);
+    color: #272727;
+    background: #f0f0f0;
+}
+
+.left-threeway {
+  width: 31%;
+  float: left;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+.center-threeway {
+  width: 31%;
+  float: left;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+.right-threeway {
+  width: 31%;
+  float: left;
+  padding-right: 1%;
+  padding-left: 1%;
+}
